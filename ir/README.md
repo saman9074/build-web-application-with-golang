@@ -10,26 +10,13 @@ Because I'm interested in web application development, I used my free time to wr
 
 I believe the purpose of studying is sharing with others. The happiest thing in my life is sharing everything I've known with more people.
 
-# Donate
+## main source
 
-AliPay: <img src="../zh/images/alipay.png" alt="alipay" width="100" height="100">
+- [main source] (https://github.com/astaxie/build-web-application-with-golang/)
 
-English Donate:[donate](http://beego.me/donate)
-
-## Community
-QQ群：386056972
-
-BBS：[http://gocn.io/](http://gocn.io/)
-
-### Acknowledgments
-
- - [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
- - [洪瑞琦 Hong Ruiqi](https://github.com/hongruiqi) (review code)
- - [边  疆 BianJiang](https://github.com/border) (write the configurations about Vim and Emacs for Go development)
- - [欧林猫 Oling Cat](https://github.com/OlingCat)(review code)
- - [吴文磊 Wenlei Wu](mailto:spadesacn@gmail.com)(provide some pictures)
- - [北极星 Polaris](https://github.com/polaris1119)(review whole book)
- - [雨  痕 Rain Trail](https://github.com/qyuhen)(review chapter 2 and 3)
+## Translator
+ - [Ali Abdi](mailto:ali.abdi@outlook.com)
+  <p dir='rtl' align='right'>- در صورتی که میتوانید در ترجمه کمک کنید لطفا پیام دهید. </p>
 
 ### License
 
@@ -39,3 +26,11 @@ the code is licensed under a [BSD 3-Clause License](<https://github.com/astaxie/
 ### Get Started
 
 [Index](./preface.md)
+
+
+## Arcane Engineering Company
+
+[Arcane Engineering Company - Persian](http://arcaneteam.com/)
+
+
+
