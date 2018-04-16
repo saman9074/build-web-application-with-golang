@@ -5,12 +5,12 @@
 
 
 
-## Contributors
+## main source
 
-- See [contributors page](https://github.com/astaxie/build-web-application-with-golang/graphs/contributors) for full list of contributors.
+- main source (https://github.com/astaxie/build-web-application-with-golang/)
 
 ## Translator
- - [Ali Abdi](mailto:ali.abdi@outlook.com)(persian)
+ - [Ali Abdi](mailto:ali.abdi@outlook.com)
 
 
 ## License
