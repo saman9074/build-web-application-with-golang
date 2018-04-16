@@ -7,7 +7,7 @@
 
 ## main source
 
-- main source (https://github.com/astaxie/build-web-application-with-golang/)
+- [main source] (https://github.com/astaxie/build-web-application-with-golang/)
 
 ## Translator
  - [Ali Abdi](mailto:ali.abdi@outlook.com)
@@ -17,3 +17,8 @@
 Book License: [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Code License: [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>)
+
+
+## Arcane Engineering Company
+
+[Arcane Engineering Company](http://arcaneteam.com/en/)
